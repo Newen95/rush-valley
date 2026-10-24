@@ -49,7 +49,7 @@ A few details worth a look:
 ## Team
 
 Started as the UEFN / Verse sprint of the Unreal Engine track at Epitech Berlin
-(winter 2025–2026) with [Lucas Debize](https://github.com/lucas-debize) and
+(winter 2025-2026) with [Lucas Debize](https://github.com/lucas-debize) and
 Otonagai, then continued and published solo in June 2026.
 
 - **Newen Calle**: most of the commits and the asset selection. Base upgrade
